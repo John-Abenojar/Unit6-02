@@ -6,5 +6,5 @@ else if (number == 0){
   alert("Your number is neither positive or negative");
 }
 else{
-  alert("Your number is a negative integer");
+  alert("Your number is a negative integer!");
 }
